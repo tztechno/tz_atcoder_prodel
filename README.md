@@ -8,8 +8,9 @@ https://produ.irelang.jp/blog/2017/02/9/
 
 https://produ.irelang.jp/bbs/qa/wforum-rdr.cgi?mode=read&reno=2636&no=2641&oya=2636
 
-<p>
----  
+<br/>
+<br/>  
+  
 ```
 2024-03-26
 [エラー：配列の２番目以降を取得できない]
