@@ -10,6 +10,8 @@ https://produ.irelang.jp/bbs/qa/wforum-rdr.cgi?mode=read&reno=2636&no=2641&oya=2
 
 <br/>
 <br/>  
+
+大文字と小文字を区別しないので、混在させるとconfuseするようだ
   
 ```
 2024-03-26
