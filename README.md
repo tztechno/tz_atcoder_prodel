@@ -38,7 +38,10 @@ https://produ.irelang.jp/bbs/qa/wforum-rdr.cgi?mode=read&reno=2636&no=2641&oya=2
 ```
 ---
 ```
-
+【A：長整数】は、2
+【B：長整数】は、1
+L(1)=A
+L(2)=B
 ```
 ---
 ```
